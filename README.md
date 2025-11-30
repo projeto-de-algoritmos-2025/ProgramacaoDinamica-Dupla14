@@ -22,7 +22,7 @@ Utilizamos a linguagem python para a resolução das questões.
 
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| [62. Unique Paths](PD/medias/Q1/q1.md) | Médio | [Vídeo]() |
-| [32. Longest Valid Parentheses](PD/dificeis/Q1/q1.md) | Difícil | [Vídeo]() |
+| [62. Unique Paths](PD/medias/Q1/q1.md) | Médio | [Vídeo](https://unbbr-my.sharepoint.com/:v:/g/personal/222026715_aluno_unb_br/IQCAMxJFEnpxTKWV7mm_a0zCAWg9cKfF4Q-t6Xbu3s-mMvg?e=G4XYa4) |
+| [32. Longest Valid Parentheses](PD/dificeis/Q1/q1.md) | Difícil | [Vídeo](https://unbbr-my.sharepoint.com/:v:/g/personal/222026715_aluno_unb_br/IQAjohcvqjp-S6uPgPWzku6gAVpOm8BbaagZTSwwCLfP2oc?e=m4vWYS) |
 | []() | Médio | [Vídeo]() |
 | []() | Difícil | [Vídeo]() |
